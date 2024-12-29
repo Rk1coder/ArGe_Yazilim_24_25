@@ -53,6 +53,3 @@ if __name__ == "__main__":
     IP = "10.0.0.169"#jetson ip adresi
     PORT = 8000 # 3000 ve 65000 arasında rastgele bir port belirlenebilir
     stream(IP, PORT)
-
-
-
